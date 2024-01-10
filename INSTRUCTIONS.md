@@ -14,10 +14,10 @@ git clone https://github.com/YOUR_USERNAME/TryHackMe
 
 <br>
 
-### 3. To start tracking your progress, you can use this command to clear the rooms list:
+### 3. To start tracking your progress, you can use this command to clear the rooms list (https://unix.stackexchange.com/a/663387):
 
 ```
-sed -i 's/\[x\]/\[ \]/g' README.md
+sed -i .bak 's/\[x\]/\[ \]/g' README.md
 ```
 
 This command will replace '[x]' with '[ ]' in the README.md file.
