@@ -23,7 +23,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 - [x] [Google Dorking](https://tryhackme.com/room/googledorking)
 - [x] [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [x] [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- [ ] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- [x] [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
 - [ ] [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)
 - [ ] [Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)
